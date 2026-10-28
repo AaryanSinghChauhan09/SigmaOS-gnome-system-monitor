@@ -1,0 +1,10 @@
+[package]
+name = "sigmaos_gnome_system_monitor"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[lib]
+name = "sigmaos_gnome_system_monitor"
+path = "src/lib.rs"
